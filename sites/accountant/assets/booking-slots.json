@@ -1,0 +1,11 @@
+{
+  "_note": "Seam: the sample diary. site.js computes the days from today so the example never goes stale; the booking provider replaces this file and the DIARY constant at import.",
+  "review_by": null,
+  "owner": "practice",
+  "timezone": "Europe/London",
+  "duration_minutes": 20,
+  "rule": "the next three working days from today, Monday to Friday, no allowance made for bank holidays",
+  "times": ["09:30", "11:00", "14:00", "15:30"],
+  "held": {"day_index": 1, "time": "09:30", "reason": "one slot is deliberately unavailable so the example shows a taken time"},
+  "states": ["worked", "selected", "cleared", "no availability", "outside the sample window"]
+}

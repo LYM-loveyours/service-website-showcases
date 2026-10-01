@@ -1,0 +1,189 @@
+{
+  "source_repository": "LYM-loveyours/lym-signature-blueprints",
+  "source_tree": "482a9d5c551e176b7f3b28636b29b63cd9a27859",
+  "date": "2026-10-01",
+  "method": "Allowlisted authored HTML/CSS/JS/SVG/JSON only; no original Git history or private documentation copied.",
+  "files": [
+    {
+      "file": "estate-agent/proof.html",
+      "source_sha256": "7f6f7303ccc02035ceaff206a8f70ec67c06c6466811deef7f39fcd9239c8e78",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/sell.html",
+      "source_sha256": "ac8ea17c8a6d37ff6c52edd14b6485a627f6762b6fba748ddf7e2453c13d12aa",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/legal.html",
+      "source_sha256": "214c1d1792b849789319875dcd578bbf40ec27d09832366adaa25a05626bf9e5",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/index.html",
+      "source_sha256": "c44b301232b68fa0ff548e3fdc168d024ba185b9e4456d8987f234eb08db78e0",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/let.html",
+      "source_sha256": "29b99260cc76e9aa3eaaf56b9a0792cb9f956287c95e806c574e7718c7d8a4d7",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/property.html",
+      "source_sha256": "1a7bff5eac79bb22baf586ab665e66a1c4c63b951771bdf30d60d6a5a4b301ea",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/about.html",
+      "source_sha256": "6326f219a025a6d448f3e05e2ee4538ec4114722392c0806b1440f5107cba8f0",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/contact.html",
+      "source_sha256": "9920156775661cbe4527ea9b3eeb57628dfa64785c6cdd55e18c008d13cae49b",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/tokens.css",
+      "source_sha256": "2399f08d6e24a6967cd615119c6bfcb874b5c79c0a8f8bdd4e773d6184ffe38f",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/properties.html",
+      "source_sha256": "39a6a8af6152c3fe8b7952616c9b93d654c23e3353f687dc967b9f59d30655f8",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/site.css",
+      "source_sha256": "3eb9c055f9f8bf1128a2590b7555746a2ea065ac84e07991522534b5378c699f",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/site.js",
+      "source_sha256": "a155bfe3a4191af2dc2a629eb513d3af61c2b6b48f594db9841aff03ea27917d",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/area-didsbury.html",
+      "source_sha256": "d9f76ecadb3ba0f665e4d034322235160767b74032a18d96b2aace368ba74c82",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/assets/frame-ea-20-appraisal.svg",
+      "source_sha256": "914874e529e7d703db1543daa3e5345acf14fca77a631375f944d1fb250f46b1",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/assets/frame-ea-21-letting-pair.svg",
+      "source_sha256": "9cc9a839a718cb4110349ac9f44444595508aa0588f42dccfada7bd5437e3d6b",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/assets/frame-ea-19-didsbury-street.svg",
+      "source_sha256": "5a4e52e0218cc27a366ab14bd88511cfc7d7ff519e5e44bf41824f2f3cddd746",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/assets/slots.json",
+      "source_sha256": "7ea0c87827d7f353ccd7cf904bb662e0652d9c3f3b680ee0946c53c09967577a",
+      "matches_github_blob": true
+    },
+    {
+      "file": "estate-agent/assets/properties.json",
+      "source_sha256": "2164dd1c464156fb46383512f6c55cbed50b04d66c4f0a6b06318aa7fbe4ac0b",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/proof.html",
+      "source_sha256": "ee5a2214811d29ff82be00294e3d77bcd1559834ce6fc8a07d005dadf2c580d9",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/insight-mtd-itsa.html",
+      "source_sha256": "f8fd1ba817eb3f855df449d274c941dffac218b80cdfec27841d5d7cc031bb4b",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/sector-landlords.html",
+      "source_sha256": "bedb015ebf15512f4177f2a3c117e293d5d721492df38bf538ae5827cf7d38a2",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/legal.html",
+      "source_sha256": "ebc69fe29cd420fd12ea1f5668a1b087b3da42d0173aa2fb8bb711e064584800",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/index.html",
+      "source_sha256": "03fd5a303a013cf525bd074d9ad5f315aee12ee653dba10185cd663323578bfa",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/people.html",
+      "source_sha256": "9721e90b22de17a9776977f4da5df054748fb2c63186a87ac6cfdd5fccce46a1",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/pricing.html",
+      "source_sha256": "b30f62d4a95701a88388eba68843c1906dbaef7e9a13a723abf5b6829c989628",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/tokens.css",
+      "source_sha256": "527ef3323505ba4c6d010889ba6ca3b4ff2970b3158d7ba62301d80fb512ec0c",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/insight-deadlines.html",
+      "source_sha256": "6b5b02df4b57f62f4c749bf2bf1350bffbcd4da840e26b025954b8c0d976bcc1",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/book.html",
+      "source_sha256": "859c7feb19f64ed34c16ce925d0c049569c47440622b33ec0459e88a114eacce",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/switching.html",
+      "source_sha256": "99089c6f2dd3bb87175aa8c41d8666c46067b7131cc83b349ddad0b6f224647c",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/site.css",
+      "source_sha256": "cfb4e07f25da4a3b291445add832505f920629bc5fbcc9614d823a4f365237a2",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/site.js",
+      "source_sha256": "5bd5043afe74b838d9353f72d5ed9599c27d91c49f0b3e19512ece7cf0a456ee",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/services.html",
+      "source_sha256": "a16e2fc8ffc06a1d1e523fdbe7f4e6ee12deeb4aa2769f8266f753d0d32456c2",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/sector-trades.html",
+      "source_sha256": "415629f2ba31d3bae429e76c208c1b6ffb14189beeb6b3cefba108c114af0d0f",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/assets/fee-tiers.json",
+      "source_sha256": "2377ef9fd96cbb548978e212ca679570cd002f72474a27914676d904d66566d5",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/assets/deadline-rules.json",
+      "source_sha256": "c68f0082102d42c87253936bac7b82eb9e2889e7becccaa810d701d4bc621ca5",
+      "matches_github_blob": true
+    },
+    {
+      "file": "accountant/assets/booking-slots.json",
+      "source_sha256": "3816562a2c937b54dcef3287d5c622e9fae734174301d44a13a1d465d096c6fd",
+      "matches_github_blob": true
+    }
+  ],
+  "font_source": "Existing fonts-src; licences retained alongside font files."
+}

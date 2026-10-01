@@ -1,0 +1,30 @@
+{
+  "_about": "Static example diary for the Morrowell Signature example. It holds only the shape of a working day; the actual dates are computed at load from Europe/London so the example never shows a stale date. In a real build a booking provider replaces this file and the same renderer reads its response.",
+  "_seam": "booking-provider",
+  "_review_by": "2026-12-07",
+  "days_offered": 4,
+  "kinds": {
+    "valuation": {
+      "label": "Valuation visit",
+      "duration_minutes": 45,
+      "times": ["09:30", "11:00", "14:00", "16:30"],
+      "unavailable": {
+        "1": ["09:30", "11:00"],
+        "2": ["14:00"],
+        "3": [],
+        "4": ["09:30", "11:00", "14:00", "16:30"]
+      }
+    },
+    "viewing": {
+      "label": "Accompanied viewing",
+      "duration_minutes": 30,
+      "times": ["10:00", "12:30", "15:00", "17:30"],
+      "unavailable": {
+        "1": ["10:00"],
+        "2": ["12:30", "15:00"],
+        "3": ["17:30"],
+        "4": []
+      }
+    }
+  }
+}
