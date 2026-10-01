@@ -1,0 +1,17 @@
+{
+  "_note": "Seam: the published tariff. site.js reads the same figures from its TARIFF constant; a real build replaces both from the CMS. Fictional fees for an example practice — not an offer.",
+  "currency": "GBP",
+  "basis": "per month, excluding VAT",
+  "review_by": "2027-04-06",
+  "owner": "practice",
+  "tiers": [
+    {"id": "sole", "label": "Sole trader", "base": 95, "name": "Sole trader accounts & tax", "detail": "Annual accounts and Self Assessment return"},
+    {"id": "company", "label": "Limited company", "base": 185, "name": "Company accounts & tax", "detail": "Year-end accounts and Corporation Tax return"},
+    {"id": "landlord", "label": "Landlord", "base": 75, "name": "Property income & tax", "detail": "Rental accounts and Self Assessment; up to two properties"}
+  ],
+  "modifiers": [
+    {"id": "vat", "label": "VAT returns", "amount": 35, "detail": "Quarterly preparation and filing", "applies_to": ["sole", "company"]},
+    {"id": "payroll", "label": "Payroll", "amount": 30, "detail": "Up to five employees", "applies_to": ["sole", "company"]}
+  ],
+  "scope": "UK-only, records kept up to date, turnover up to £150,000; the landlord tier covers up to two properties. Catch-up work and specialist advice are quoted separately."
+}

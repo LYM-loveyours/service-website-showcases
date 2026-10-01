@@ -1,0 +1,98 @@
+
+
+:root{
+  
+  --chalk:#F5F6F1;          
+  --ink:#203D35;            
+  --fern-deep:#3F594F;      
+  --fern:#557267;           
+  --celadon:#C9D5C9;        
+  --stone:#D6CBB5;          
+  --white:#FFFFFF;          
+
+  
+  --clay:#BCA78F;           
+  --clay-sh:#A8927A;        
+  --slate:#596C66;          
+  --slate-sh:#4A5A55;       
+  --moss:#87948A;           
+  --glass:#71867B;          
+  --leaf:#718878;           
+  --render:#EDEBE1;         
+  --render-sh:#D8D5C8;      
+  --rock:#C6BFAE;           
+  --rock-sh:#B0A895;        
+  --stone-sh:#C2B69E;       
+  --earth:#A7B8A6;          
+
+  
+  --rule:color-mix(in srgb,var(--ink) 27%,transparent);
+  --rule-soft:color-mix(in srgb,var(--ink) 16%,transparent);
+  --rule-w:1px;
+  --rule-heavy:1px solid var(--ink);
+
+  
+  --sans:'Hanken Grotesk',Arial,sans-serif;
+  --prose:'Newsreader',Georgia,serif;
+  --t-display:clamp(48px,5.4vw,82px);
+  --t-h2:clamp(38px,4vw,59px);
+  --t-h3:clamp(27px,2.4vw,38px);
+  --t-h4:21px;
+  --t-lede:24px;
+  --t-body:16px;
+  --t-small:14px;
+  --t-meta:13px;
+  --t-micro:12px;
+  --tight:-.055em;          
+  --hero-cap:calc(var(--t-display) * .179 - 8.6px); 
+  --hero-rule:calc(var(--t-display) * .179);  
+  --tighter:-1.2px;
+
+  
+  --gut:3.33vw;             
+  --s1:8px; --s2:12px; --s3:16px; --s4:22px; --s5:30px;
+  --s6:44px; --s7:64px; --s8:90px;
+  --block:76px;             
+  --mast-h:74px;            
+  --max:1640px;             
+  --measure:62ch;
+
+  
+  --cols:12;
+  --col-gap:24px;
+  --ctl-h:52px;             
+
+  
+  --wash:color-mix(in srgb,var(--ink) 6%,transparent);  
+  --tick:8px;                
+  --tick-w:1px;
+
+  
+  --radius:0;               
+  --tap:44px;               
+  --focus:3px solid var(--fern);
+  --focus-gap:5px;
+
+  
+  --sample-ground:color-mix(in srgb,var(--stone) 45%,var(--chalk));
+  --sample-ink:var(--fern);
+
+  
+  --ease:cubic-bezier(.2,.6,.3,1);
+  --quick:120ms;
+}
+
+@media (max-width:700px){
+  :root{
+    --gut:18px;
+    
+    --t-display:34px;
+    --t-h2:29px;
+    --t-h3:22px;
+    --t-lede:19px;
+    --block:50px;
+    --s8:56px;
+    --mast-h:62px;
+    --col-gap:0px;
+  }
+}

@@ -1,0 +1,74 @@
+
+
+:root{
+  
+  --mist:#EEF0ED;        
+  --paper:#FCFCF8;       
+  --ink:#24352D;         
+  --petrol:#305644;      
+  --slate:#526157;       
+  --ruling:#A8B8AA;      
+  --margin:#AC7771;      
+  --mark:#555B56;        
+  --rule:color-mix(in srgb,var(--ink) 22%,transparent);
+  --rule-soft:color-mix(in srgb,var(--ink) 12%,transparent);
+  --wash:color-mix(in srgb,var(--petrol) 7%,var(--mist));
+  --flag:color-mix(in srgb,var(--margin) 16%,var(--paper));
+
+  
+  --display:'Bricolage Grotesque','Arial Black',sans-serif;
+  --body:'IBM Plex Sans',Arial,sans-serif;
+  --mono:'IBM Plex Mono','Courier New',monospace;
+
+  --t-hero:clamp(58px,5.25vw,82px);   
+  --t-page:clamp(40px,4.3vw,64px);    
+  --t-sec:clamp(30px,3vw,44px);       
+  --t-sub:21px;                       
+  --t-body:16px;
+  --t-lede:18px;
+  --t-small:13px;
+  --t-fine:11px;
+
+  
+  --gutter:4.17vw;       
+  --maxw:1680px;
+  --measure:64ch;
+
+  
+  
+  --split:52%;
+  --split-margin:76%;
+  --gap-col:64px;
+  --cta-w:184px;         
+  --pence:30px;          
+  --band:76px;           
+  --band-m:42px;         
+  --row:28px;            
+
+  
+  --radius:3px;          
+
+  
+  --card-frame:1px solid var(--rule);
+  --card-top:2px solid var(--ink);
+  --card-base:2px solid var(--ink);
+  --card-margin:54px;
+  --card-pad-t:22px;
+  --card-pad-r:26px;
+  --card-pad-b:20px;
+  --card-pad-l:68px;     
+  
+  --lift:0 7px 0 0 var(--petrol),0 9px 0 0 var(--ink);
+  --lift-m:0 6px 0 0 var(--petrol),0 8px 0 0 var(--ink);
+  --tap:44px;
+
+  
+  --bar:72px;
+  --bar-clear:calc(var(--bar) + env(safe-area-inset-bottom));
+
+  
+  --t-page-c:clamp(36px,3.95vw,58px);  
+  --t-page-b:clamp(27px,2.65vw,38px);  
+}
+
+

@@ -1,0 +1,18 @@
+{
+  "_note": "Seam: the statutory rules the deadline calendar computes from. Every rule is printed on the page beside the date it produced. Dates are never stored here — only rules.",
+  "review_by": "2027-04-06",
+  "owner": "partner: Idris Kwarteng",
+  "verified": "General rules as understood on 7 September 2026. The MTD for Income Tax quarterly dates and the PAYE electronic payment date were NOT confirmed against gov.uk for this example and carry a visible caveat.",
+  "rules": [
+    {"id": "ch_accounts", "tag": "Companies House", "rule": "nine months after the year end, for a private company", "verified": true},
+    {"id": "ct_payment", "tag": "Corporation Tax", "rule": "nine months and one day after the end of the accounting period", "verified": true},
+    {"id": "ct_return", "tag": "Corporation Tax", "rule": "twelve months after the end of the accounting period", "verified": true},
+    {"id": "sa_online", "tag": "Self Assessment", "rule": "31 January after the tax year ends on 5 April", "verified": true},
+    {"id": "sa_paper", "tag": "Self Assessment", "rule": "31 October after the tax year ends on 5 April", "verified": true},
+    {"id": "poa", "tag": "Self Assessment", "rule": "payments on account: 31 January and 31 July", "verified": true},
+    {"id": "p11d", "tag": "PAYE", "rule": "6 July after the tax year ends on 5 April", "verified": true},
+    {"id": "vat", "tag": "VAT", "rule": "one month and seven days after the end of the VAT quarter", "verified": true},
+    {"id": "paye", "tag": "PAYE", "rule": "the 22nd of the following tax month when paid electronically", "verified": false},
+    {"id": "mtd", "tag": "MTD", "rule": "quarterly updates on 7 August, 7 November, 7 February and 7 May", "verified": false}
+  ]
+}
